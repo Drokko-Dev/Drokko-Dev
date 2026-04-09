@@ -44,11 +44,11 @@ Vengo del mundo del **Business Intelligence**, donde aprendí a entender los dat
 
 #### [ProceTurn](https://github.com/laureanogonzalez02/final-project-pt65)
 Aplicación HealthTech orientada a la gestión de pacientes y agendamiento. Integra modelos de IA y automatizaciones (como mensajería) para optimizar el flujo de atención. 
-**Stack:** React, Flask, SQLAlchemy, Bootstrap.
+**Stack:** React, javascript, Bootstrap, Flask, PostgreSQL, SQLAlchemy.
 
 #### [Finanz](link-a-tu-repo) (**En Desarrollo**)
 Aplicación orientada a mejorar la salud financiera mediante el seguimiento ágil de gastos mensuales. Destaca por una interfaz de diseño limpio y funcional, conectada a un backend seguro y robusto. 
-**Stack:** React, Tailwind CSS, FastApi, PostgreSQL.
+**Stack:** React, typescript, Tailwind CSS, FastApi, PostgreSQL, SQLAlchemy.
 
 ---
 
