@@ -20,7 +20,7 @@ Vengo del mundo del **Business Intelligence**, donde aprendí a entender los dat
 - 🔭 Actualmente construyendo interfaces limpias y minimalistas con **React** y arquitecturas robustas con **Flask**.
 - 💡 Me apasiona integrar **Inteligencia Artificial** y automatizaciones en mis proyectos web.
 - 🗣️ Español (Nativo) | Mejorando mi Inglés Técnico día a día.
-- ⚡ Cuando apago el monitor: Probablemente me encuentres armando mi base en Valheim, jugando Brawlhalla con amigos o desarrollando algo para pasar el rato.
+- ⚡ Cuando apago el monitor: Probablemente me encuentres armando mi base en Valheim, jugando Monster Hunter con amigos o desarrollando algo para pasar el rato.
 
 ---
 
