@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">¡Hola, qué tal! Soy Jaime Vega 👋</h1>
 
-<!--
-**Drokko-Dev/Drokko-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer | Transformando lógica de negocio en soluciones web escalables</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaime-vega-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jaime.vegah@outlook.com">
+    <img src="https://img.shields.io/badge/-Correo-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Un poco sobre mí
+
+Vengo del mundo del **Business Intelligence**, donde aprendí a entender los datos, optimizar procesos y hablar el idioma del negocio. Hoy, aplico toda esa base analítica y lógica al desarrollo de software **Full Stack**, creando aplicaciones modernas, eficientes y orientadas al usuario.
+
+- 🔭 Actualmente construyendo interfaces limpias y minimalistas con **React** y arquitecturas robustas con **Flask**.
+- 💡 Me apasiona integrar **Inteligencia Artificial** y automatizaciones en mis proyectos web.
+- 🗣️ Español (Nativo) | Mejorando mi Inglés Técnico día a día.
+- ⚡ Cuando apago el monitor: Probablemente me encuentres armando mi base en Valheim, jugando Brawlhalla con amigos o desarrollando algo para pasar el rato.
+
+---
+
+### 🛠️ Mi Caja de Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+
+*Aplica la filosofía de diseño limpio: código ordenado y UI/UX minimalista.*
+
+#### [ProceTurn](https://github.com/laureanogonzalez02/final-project-pt65)
+Aplicación HealthTech orientada a la gestión de pacientes y agendamiento. Integra modelos de IA y automatizaciones (como mensajería) para optimizar el flujo de atención. 
+**Stack:** React, Flask, SQLAlchemy, Bootstrap.
+
+#### [Finanz](link-a-tu-repo) (**En Desarrollo**)
+Aplicación orientada a mejorar la salud financiera mediante el seguimiento ágil de gastos mensuales. Destaca por una interfaz de diseño limpio y funcional, conectada a un backend seguro y robusto. 
+**Stack:** React, Tailwind CSS, FastApi, PostgreSQL.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drokko-Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
