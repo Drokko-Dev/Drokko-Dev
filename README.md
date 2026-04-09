@@ -56,5 +56,5 @@ Aplicación orientada a mejorar la salud financiera mediante el seguimiento ági
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drokko-Dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drokko-Dev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
