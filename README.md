@@ -29,6 +29,8 @@ Vengo del mundo del **Business Intelligence**, donde aprendí a entender los dat
 <p align="left">
   <img src="https://img.shields.io/badge/React-121212?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-121212?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-121212?style=flat&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-121212?style=flat&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Python-121212?style=flat&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-121212?style=flat&logo=flask&logoColor=white" alt="Flask" />
@@ -44,11 +46,11 @@ Vengo del mundo del **Business Intelligence**, donde aprendí a entender los dat
 
 #### [ProceTurn](https://github.com/laureanogonzalez02/final-project-pt65)
 Aplicación HealthTech orientada a la gestión de pacientes y agendamiento. Integra modelos de IA y automatizaciones (como mensajería) para optimizar el flujo de atención. 
-**Stack:** React, javascript, Bootstrap, Flask, PostgreSQL, SQLAlchemy.
+**Stack:** React, Javascript, Bootstrap, Flask, PostgreSQL, SQLAlchemy.
 
 #### [Finanz](link-a-tu-repo) (**En Desarrollo**)
 Aplicación orientada a mejorar la salud financiera mediante el seguimiento ágil de gastos mensuales. Destaca por una interfaz de diseño limpio y funcional, conectada a un backend seguro y robusto. 
-**Stack:** React, typescript, Tailwind CSS, FastApi, PostgreSQL, SQLAlchemy.
+**Stack:** React, Typescript, Tailwind CSS, FastApi, PostgreSQL, SQLAlchemy.
 
 ---
 
