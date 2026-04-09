@@ -27,14 +27,13 @@ Vengo del mundo del **Business Intelligence**, donde aprendí a entender los dat
 ### 🛠️ Mi Caja de Herramientas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/React-121212?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-121212?style=flat&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Python-121212?style=flat&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-121212?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQL-121212?style=flat&logo=postgresql&logoColor=4169E1" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-121212?style=flat&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 ---
